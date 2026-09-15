@@ -1,0 +1,5 @@
+k,annualised_realised_volatility,mean_gross_exposure,mean_max_abs_weight,mean_target_weight_turnover
+5,0.136109,1.893831,0.181593,0.032767
+10,0.134505,1.996322,0.208605,0.043025
+15,0.134856,2.059763,0.225366,0.048809
+20,0.134412,2.095737,0.243732,0.051025

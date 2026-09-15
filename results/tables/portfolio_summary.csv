@@ -1,0 +1,4 @@
+portfolio,annualised_realised_volatility,cagr,terminal_wealth,mean_gross_exposure,mean_max_abs_weight,mean_target_weight_turnover,mean_drifted_turnover
+Equal Weight,0.167648,0.181942,13.431440,1.000000,0.033333,0.000000,0.004356
+Sample MinVar,0.134713,0.128141,6.511913,2.089324,0.282618,0.047996,0.049846
+PCA MinVar (k=10),0.134505,0.136157,7.269295,1.996322,0.208605,0.043025,0.045040
